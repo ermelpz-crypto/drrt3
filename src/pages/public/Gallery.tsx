@@ -171,7 +171,7 @@ const Gallery: React.FC = () => {
                   </div>
                 </div>
               ))}
-           
+            </div>
           )}
 
           {/* All Items */}
@@ -255,7 +255,7 @@ const Gallery: React.FC = () => {
           )}
         </div>
       </div>
-    </div>
+
   );
 };
 
