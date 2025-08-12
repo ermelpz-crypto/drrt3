@@ -170,6 +170,7 @@ const Gallery: React.FC = () => {
                     </div>
                   </div>
                 </div>
+                </div>
               ))}
             </div>
           )}
